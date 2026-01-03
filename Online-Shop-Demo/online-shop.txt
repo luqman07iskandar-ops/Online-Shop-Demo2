@@ -1,0 +1,26 @@
+online-shop/
+│
+├── index.html
+├── products.html
+├── product-detail.html
+├── cart.html
+├── checkout.html
+├── download.html
+├── privacy.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── main.js
+│   └── cart.js
+│
+├── uploads/          (for your digital products)
+│   ├── ebook-template.zip
+│   ├── ui-design-kit.zip
+│   └── music-pack.zip
+│
+└── server/
+    ├── server.js
+    ├── package.json
+    └── downloads.log (will be created automatically)
